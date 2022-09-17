@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "632622f8eb5c0138a2ec53fc"
+  },
+  "data": {
+    "$date": "2022-09-17T07:00:00Z"
+  },
+  "height": 3000,
+  "name": "hand.png",
+  "width": 3000
+},{
+  "_id": {
+    "$oid": "6326239beb5c0138a2ec53fd"
+  },
+  "data": {
+    "$date": "2022-09-17T07:00:00Z"
+  },
+  "height": 3000,
+  "name": "quick1.png",
+  "width": 3000
+},{
+  "_id": {
+    "$oid": "632623c0eb5c0138a2ec53fe"
+  },
+  "data": {
+    "$date": "2022-09-17T07:00:00Z"
+  },
+  "height": 3000,
+  "name": "quick2.png",
+  "width": 3000
+}]
