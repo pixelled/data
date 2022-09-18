@@ -9,7 +9,7 @@ quit()" \
 | mongosh
 
 sleep .5
-mongoexport --collection=art --db=pixelled --out=images.json
+mongoexport --collection=art --db=pixelled --out=images.json --jsonArray
 
 sleep .5
 echo -e \
