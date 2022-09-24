@@ -4,7 +4,7 @@ mongod &
 sleep 1
 echo -e \
 "use pixelled\n
-db.art.insertOne({ name: 't.png', width: 1920, height: 1080, date: new Date() })\n
+db.art.insertOne({ name: 'girl1.png', width: 5000, height: 3000, date: new Date() })\n
 quit()" \
 | mongosh
 
